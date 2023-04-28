@@ -1,0 +1,22 @@
+body{
+    display: grid;
+    grid-template-columns: 320px 1fr;
+}
+main{
+    min-height: 100vh;
+    font-family: serif;
+}
+.links{
+    background-color: black;
+    color: white;
+}
+.admin-nav ul{
+    padding: 0px;
+}
+.admin-nav a{
+    text-decoration: none;
+    color: white;
+}
+.admin-nav ul{
+    list-style: none;
+}
